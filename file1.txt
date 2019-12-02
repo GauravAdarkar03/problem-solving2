@@ -1,1 +1,4 @@
 Hello AWS
+[master 485a566] Changes first made
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file1.txt
